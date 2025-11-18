@@ -10,7 +10,7 @@ The portfolio emphasizes advanced analytical techniques, predictive modelling, p
 | Domain | Key Skills Demonstrated | Strategic Application |
 | :--- | :--- | :--- |
 | **Data Preparation & EDA** | Data cleaning, transformation, outlier identification, distribution analysis, and data visualisation. | Uncovering hidden patterns and ensuring data readiness for advanced modelling. |
-| **Time Series & ML Modeling** | Cross-correlation, Granger Causality, KNN, Random Forest, and XGBoost Regressors. | Forecasting, lead-lag indicator identification, and building robust predictive systems. |
+| **Time Series & ML Modelling** | Cross-correlation, Granger Causality, KNN, Random Forest, and XGBoost Regressors. | Forecasting, lead-lag indicator identification, and building robust predictive systems. |
 | **Probabilistic Models** | Bayesian Networks, Probabilistic Graphical Models, and Conditional Probability Calculation. | Inference, modelling complex relationships, and developing robust decision support systems. |
 | **Synthetic Data Generation** | SMOTE (Synthetic Minority Oversampling Technique), ML-based Imputation, and Generative Adversarial Networks (GAN) for Tabular Data. | Managing class imbalances.|
 | **Natural Language Processing (NLP)** | Sentiment Analysis, Topic Modelling, and Text Preprocessing. | Analysing unstructured data (social media) to extract sentiment and dominant themes. |
