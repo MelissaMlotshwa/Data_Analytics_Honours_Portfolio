@@ -31,25 +31,34 @@ Using time-series alignment and cross-correlation, we assess whether changes in 
 ## Key Visualisations
 ### Visualisation 1
 Caption: MTN.JO Share Price with Moving Averages
-<img src="images/download(1).png" width="700">
+<img src="images/download (1).png" width="700">
+
 ### Visualisation 2
 Caption: Performing STL decomposition for MTN.JO Share Price
-<img src="images/download(2).png" width="700">
+<img src="images/download (2).png" width="700">
+
 ### Visualisation 3
-Caption: Normalised MTN.JO Share Price
-<img src="images/download(3).png" width="700">
+
+Caption: Normalised MTN.JO
+
+<img src="images/download (3).png" width="700">
+
 ### Visualisation 4
 Caption: Performing STL decomposition for: mtn stock price: (South Africa)
-<img src="images/download(4).png" width="700">
+<img src="images/download (4).png" width="700">
+
 ### Visualisation 5
 Caption: Correlation Heatmap with Google Search Keywords
-<img src="images/download(5).png" width="700">
+<img src="images/download (5).png" width="700">
+
 ### Visualisation 6
 Caption: Cross-Correlation: mtn stock price (google trend search keyword)  vs Stock Price
-<img src="images/download(6).png" width="700">
+<img src="images/download (6).png" width="700">
+
 ### Visualisation 7
 Caption: ML Model Forecasts vs Actual Stock Price Movements
-<img src="images/download(7).png" width="700">
+<img src="images/download (7).png" width="700">
+
 ## Key Findings
 * Google Search Trends (particularly certain keywords) showed a leading relationship with MTN stock price movements, with p-values from Granger Causality tests indicating predictive power at various lags.
 
