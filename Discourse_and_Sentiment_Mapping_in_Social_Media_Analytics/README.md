@@ -124,9 +124,8 @@ The topic model identified **four dominant themes**:
 
 📌 **Knowledge Network Graph:**
 
-```
-![Topic Network Graph](images/topic_network_graph.png)
-```
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/24ac16d7-9143-4ea5-937e-69b016f2be42" />
+
 
 ---
 
