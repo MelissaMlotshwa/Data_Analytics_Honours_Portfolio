@@ -1,6 +1,4 @@
-## Assignment 3: Demographic Profiling of Purchase Intent Using Probabilistic Models
-
-### Assignment_3_Demographic_Profiling_README.md
+## **Demographic Profiling of Purchase Intent Using Probabilistic Models**
 
 ## 🎯 Project Goal: Conditional Probability Analysis for Customer Segmentation
 This project applies **Bayesian inference** to perform **demographic profiling** of customer purchase intent.  
@@ -56,3 +54,7 @@ The most probable purchase-intent profiles show clear segmentation differences b
 
 **2. Young & Employed Aspirational Segment**  
 - Emphasise **quality, innovation, convenience, and lifestyle-aligned products**.
+
+## Inference Decision Tree for Purchase Probability
+
+<img width="1394" height="697" alt="image" src="https://github.com/user-attachments/assets/b690cfcc-ab21-46ad-b4a9-03b1eaaaeab5" />
